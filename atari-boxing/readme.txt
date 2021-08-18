@@ -1,0 +1,1 @@
+# The purpose of this model is not to be constant at score, is reach the best score possible within 100 rounds.
